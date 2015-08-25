@@ -6,7 +6,7 @@ var vegetables = [
         "Cucumber",
         "Peas"
          ];
-
+/////
 // WHEN the app loads for the first time, register "ejs" as the templating language
 // http://www.embeddedjs.com/
 app.set('view engine', 'ejs');
